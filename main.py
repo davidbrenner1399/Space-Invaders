@@ -14,7 +14,7 @@ GREEN = (0,255,0)
 #   GAME WINDOW
 WIN = pygame.display.set_mode((WIDTH,HEIGHT))
 
-pygame.display.set_caption("Space Shooter Tutorial")
+pygame.display.set_caption("Space Shooter")
 
 
 #   LOADING IMAGES
